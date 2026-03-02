@@ -133,4 +133,4 @@ This project was built at **H.E.R. DAO Hackathon 2023** — a 48-hour event focu
 <div align="center">
   <sub>Built with purpose at H.E.R. DAO Hackathon 2023</sub>
 </div>
-## ![Alt text](image.png)
+
